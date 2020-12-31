@@ -1,19 +1,19 @@
-# Dynamic Set Dollar
+# Platinum Set Dollar
 
-- shorthand name: `dynamic dollar`
-- full name: `Dynamic Set Dollar`
-- symbol: `DSD`
+- shorthand name: `platinum dollar`
+- full name: `Platinum Set Dollar`
+- symbol: `PSD`
 - decimals: `18`
 - icon:
 
-![DSD Logo](https://dsd.finance/logo.png)
+![DSD Logo](https://platinum.finance/logo.png)
 
 ## contracts
 ### mainnet
-- `0x6Bf977ED1A09214E6209F4EA5f525261f1A2690a` **DAO (DSDS)**
-- `0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3` **DSD**
+- `0x6Bf977ED1A09214E6209F4EA5f525261f1A2690a` **DAO (PSDS)**
+- `0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3` **PSD**
 - `0xe2e279d1b911bad880d1104a750dfcd262fb6cf4` **Oracle**
-- `0x66e33d2605c5fb25ebb7cd7528e7997b0afa55e8` **UniswapV2 USDC:DSD Pair**
+- `0x66e33d2605c5fb25ebb7cd7528e7997b0afa55e8` **UniswapV2 USDC:PSD Pair**
 - `0x70A87e1b97436D2F194B8B9EBF337bFc7521C70f` **LP Incentivation Pool**
 
 ## audit of forked codebase
